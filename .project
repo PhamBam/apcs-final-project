@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Space Invaders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/sprites/alien.gif</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/sprites/alien.gif</locationURI>
+		</link>
+		<link>
+			<name>src/sprites/ship.gif</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/sprites/ship.gif</locationURI>
+		</link>
+		<link>
+			<name>src/sprites/shot.gif</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/sprites/shot.gif</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
